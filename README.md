@@ -1,13 +1,13 @@
 🖐️ Hi, I am Victory  
   
 
-- 🌱 I’m currently learning in ALX  
+- 🌱 I’m currently learning in ALX and Pluralsight
   
 
-- ❓ Ask me about anything related to LAMP stack, networking and related technologies  
+- ❓ Ask me about anything related to LAMP stack, networking and related technologies
   
 
-- ⚡ Fun fact: I am more Vim than Emacs  
+- ⚡ Fun fact: I am more Vim than Emacs
   
 
 <br/>  
