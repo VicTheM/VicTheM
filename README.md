@@ -20,9 +20,9 @@
 
 ### low Level
 <div align="center">  
-    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="60" height="30">
-  <img src="https://lp.franka.de/hubfs/Design%20ohne%20Titel%20%289%29.jpg" alt="ROS2" width="60" height="30">
-  <img src="https://www.khmer168.com/wp-content/uploads/2024/01/c-tutorial-for-beginners.png" alt="C" width="60" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="100" height="70">
+  <img src="https://lp.franka.de/hubfs/Design%20ohne%20Titel%20%289%29.jpg" alt="ROS2" width="100" height="70">
+  <img src="https://www.khmer168.com/wp-content/uploads/2024/01/c-tutorial-for-beginners.png" alt="C" width="100" height="70">
 </div>
 
 </td><td valign="top" width="33%">
