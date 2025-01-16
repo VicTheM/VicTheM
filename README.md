@@ -20,9 +20,9 @@
 
 ### low Level
 <div align="center">  
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fc_6132222&psig=AOvVaw16uih62PCSEeJDnsZBSAyD&ust=1737083405627000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiOt42i-YoDFQAAAAAdAAAAABAE" alt="4evabraids" width="60" height="30">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flp.franka.de%2Fnews%2Ffranka-ros-2-release-empowering-robotics-research-and-industry-applications&psig=AOvVaw1OzSzWzkT8NTc-yr58nkHT&ust=1737083470301000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi7o66i-YoDFQAAAAAdAAAAABAn" alt="4evabraids" width="60" height="30">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.khmer168.com%2Fprogramming-languages%2Fan-introduction-to-c-programming-the-foundation-of-software-development%2F&psig=AOvVaw2W1dNAX5iMLWvgfZ_lSYJk&ust=1737083582833000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDC5eGi-YoDFQAAAAAdAAAAABAE" alt="4evabraids" width="60" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="60" height="30">
+  <img src="https://lp.franka.de/hubfs/Design%20ohne%20Titel%20%289%29.jpg" alt="ROS2" width="60" height="30">
+  <img src="https://www.khmer168.com/wp-content/uploads/2024/01/c-tutorial-for-beginners.png" alt="C" width="60" height="30">
 </div>
 
 </td><td valign="top" width="33%">
