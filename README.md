@@ -17,7 +17,7 @@ As a formal introduction, I am a Software Engineer with keen interest in progres
 
 With a background in Electrical and Electronics Engineering, I approach computer systems with mastery and curiosity, similar to how a scientist will handle his/her invention. I find little satisfaction in a "no-brain" work, instead I am motivated by opportunities to push boundaries and chase perfection.
 
-Currently, I am building my most efficient project yet, a generational Chess platform engineered to serve more user per server at lightning speed, while consuming minimal computational resource, effectively scaling down cost of hosting by over 60% when compared to current world class solutions. My aim is to put myself in a seemingly impoissibele case and still win,  that indeed, is true satisfaction.
+Currently, I am building my most efficient project yet, a generational Chess platform engineered to serve more users per server at lightning speed, while consuming minimal computational resources, effectively scaling down the cost of hosting by over 60% when compared to current world-class solutions. My aim is to put myself in a seemingly impossible case and still win; that indeed, is true satisfaction.
 
 ## 💻 Tech Stack
 
